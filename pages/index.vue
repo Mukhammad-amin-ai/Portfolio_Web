@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="conatainer">
-      <header class="home w-[100%] h-[120vh] bg-[#FCF7F7]">
+      <header class="home w-[100%] h-[100vh] bg-[#FCF7F7]">
         <Navbar />
         <div class="main-content w-[100%] h-[500px] mt-[70px] flex justify-center">
           <div class="w-[93.45%] h-[100%] flex justify-between items-end">
@@ -23,8 +23,9 @@
                   </div>
                 </button>
                 <div class="w-[463.456px] h-[300.467px]">
-                  <svg class="w-[100%]" src="../assets/images/Ale-icons.svg" alt="#">
-  
+                  <!-- <img class="w-[100%]"  src="../assets/images/Ale-icons.svg" alt="#"/> -->
+                  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 [width] [height]">
+                    <image href="../assets/images/Ale-icons.svg" width="100%" height="100%" />
                   </svg>
                 </div>
               </div>
@@ -32,8 +33,13 @@
 
             </div>
 
-            <div class="w-[650px] h-[100%] bg-[red]"></div>
+            <div class="mac-box w-[650px] h-[100%] ">
+              <div class="box">
 
+              </div>
+
+
+            </div>
           </div>
 
         </div>
@@ -53,5 +59,19 @@
   width: 100vw;
   max-width: 100%;
   height: auto;
+}
+
+.mac-box {
+  background: radial-gradient(135.9% 70.91% at 89.64% 35.57%, rgba(0, 209, 255, 0.20) 0%, rgba(255, 0, 229, 0.20) 84%), linear-gradient(128deg, rgba(123, 239, 204, 0.00) 16.18%, rgba(123, 169, 239, 0.59) 58.38%);
+  border-radius: 30.563px;
+
+}
+
+.box {
+  width: 100%;
+  height: 92px;
+  border-radius: 30.563px 30.563px 0px 0px;
+  border: 1px solid #000;
+  background: rgba(217, 217, 217, 0.00);
 }
 </style>

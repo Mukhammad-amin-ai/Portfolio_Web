@@ -4,8 +4,8 @@
       <header class="home w-[100%] h-[100vh] bg-[#FCF7F7]">
         <Navbar />
         <Header/>
-        
       </header>
+      <Projects/>
     </div>
   </div>
 </template>

@@ -6,6 +6,7 @@
         <Header/>
       </header>
       <Projects/>
+      <Portfolio/>
     </div>
   </div>
 </template>

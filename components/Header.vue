@@ -30,92 +30,10 @@
 
                 </div>
                 <div class="mac-box w-[650px] h-[100%] ">
-                    <div class="box-header">
-                        <div class="w-[119.015px] h-[21.214px]  mt-[25.17px] ml-[38.48px]">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"
-                                viewBox="0 0 [width] [height]">
-                                <image href="../assets/svg/icons.svg" width="100%" height="100%" />
-                            </svg>
-                        </div>
-                    </div>
-                    <div class="box-body relative">
-                        <div
-                            class="w-[360px] h-[260px] left-[180px] top-[40.23px] absolute z-10 rounded-[28.337px] bg-[#000] border-[1.8px] border-solid border-[#00FF79]">
-                            <div class="w-[100%] h-[90%] ml-[40px] mt-[15px]">
-                                <span class="text-violet-700  font-bold font-['Roboto'] ">body</span>
-                                <span class="text-yellow-500  font-bold font-['Roboto'] ">{<br /></span><span
-                                    class="text-black  font-bold font-['Roboto'] "> </span><span
-                                    class="text-blue-900  font-bold font-['Roboto'] ">background:</span><span
-                                    class="text-blue-950  font-bold font-['Roboto'] "> <br /></span><span
-                                    class="text-white text-opacity-60  font-bold font-['Roboto'] ">
-                                    linear-gradient</span><span
-                                    class="text-blue-950  font-bold font-['Roboto'] ">(127deg,</span><span
-                                    class="text-black  font-bold font-['Roboto'] "> <br /></span><span
-                                    class="text-cyan-400  font-bold font-['Roboto'] "> rgb(2, 255,
-                                    238)</span><span class="text-black  font-bold font-['Roboto'] ">,
-                                </span><span style="text-violet-700  font-bold font-['Roboto'] ">rgb(154, 24,
-                                    253)</span><span class="text-black  font-bold font-['Roboto'] ">
-                                </span><span class="text-blue-950  font-bold font-['Roboto'] ">85.71%),<br /></span><span
-                                    class="text-black  font-bold font-['Roboto'] "> </span><span
-                                    class="text-white text-opacity-60  font-bold font-['Roboto'] ">linear-gradient</span><span
-                                    class="text-blue-950  font-bold font-['Roboto'] ">(90deg,</span><span
-                                    class="text-white text-opacity-60  font-bold font-['Roboto'] ">
-                                    <br /></span><span class="text-emerald-500  font-bold font-['Roboto'] ">
-                                    rgb(4, 247, 113), rgb(4, 247, 113)</span><span
-                                    class="text-black  font-bold font-['Roboto'] ">
-                                </span><span class="text-blue-950  font-bold font-['Roboto'] ">20.71%),<br /></span><span
-                                    class="text-black  font-bold font-['Roboto'] "> </span><span
-                                    class="text-white text-opacity-60  font-bold font-['Roboto'] ">linear-gradient</span><span
-                                    class="text-blue-950  font-bold font-['Roboto'] ">(336deg,
-                                    <br /></span><span class="text-emerald-500  font-bold font-['Roboto'] ">
-                                    rgb(0, 255, 102), </span><span style="text-cyan-400  font-bold font-['Roboto'] ">rgb(2,
-                                    255,
-                                    238)</span><span class="text-black  font-bold font-['Roboto'] ">
-                                </span><span class="text-blue-950  font-bold font-['Roboto'] ">85.71%);</span><span
-                                    class="text-black  font-bold font-['Roboto'] "> <br /></span><span
-                                    class="text-yellow-500  font-bold font-['Roboto'] ">}</span>
-                            </div>
-                        </div>
-                        <div
-                            class="w-[320px] h-[230px] left-[70px] bottom-[30px] absolute  rounded-[28.337px] bg-[#000] border-[1.8px] border-solid border-[#00FF79]">
-                            <div class="w-[320px] h-[230px] absolute z-2 rounded-[28.337px]"></div>
-                            <div class="w-[100%] h-[100%] ml-[30px] mt-[5px] bg z-0"><span
-                                    class="text-violet-700 text-sm font-bold font-['Roboto'] ">body</span><span
-                                    class="text-yellow-500 text-sm font-bold font-['Roboto'] ">{<br /></span><span
-                                    class="text-black text-sm font-bold font-['Roboto'] "> </span><span
-                                    class="text-blue-900 text-sm font-bold font-['Roboto'] ">background:</span><span
-                                    class="text-blue-950 text-sm font-bold font-['Roboto'] "> <br /></span><span
-                                    class="text-white text-opacity-60 text-sm font-bold font-['Roboto'] ">
-                                    linear-gradient</span><span
-                                    class="text-blue-950 text-sm font-bold font-['Roboto'] ">(127deg,</span><span
-                                    class="text-black text-sm font-bold font-['Roboto'] "> <br /></span><span
-                                    class="text-cyan-400 text-sm font-bold font-['Roboto'] "> rgb(2, 255,
-                                    238)</span><span class="text-black text-sm font-bold font-['Roboto'] ">,
-                                </span><span class="text-violet-700 text-sm font-bold font-['Roboto'] ">rgb(154, 24,
-                                    253)</span><span class="text-black text-sm font-bold font-['Roboto'] ">
-                                </span><span
-                                    class="text-blue-950 text-sm font-bold font-['Roboto'] ">85.71%),<br /></span><span
-                                    class="text-black text-sm font-bold font-['Roboto'] "> </span><span
-                                    class="text-white text-opacity-60 text-sm font-bold font-['Roboto'] ">linear-gradient</span><span
-                                    class="text-blue-950 text-sm font-bold font-['Roboto'] ">(90deg,</span><span
-                                    class="text-white text-opacity-60 text-sm font-bold font-['Roboto'] ">
-                                    <br /></span><span class="text-emerald-500 text-sm font-bold font-['Roboto'] ">
-                                    rgb(4, 247, 113), rgb(4, 247, 113)</span><span
-                                    class="text-black text-sm font-bold font-['Roboto'] "> </span><span
-                                    class="text-blue-950 text-sm font-bold font-['Roboto'] ">20.71%),<br /></span><span
-                                    class="text-black text-sm font-bold font-['Roboto'] "> </span><span
-                                    class="text-white text-opacity-60 text-sm font-bold font-['Roboto'] ">linear-gradient</span><span
-                                    class="text-blue-950 text-sm font-bold font-['Roboto'] ">(336deg,
-                                    <br /></span><span class="text-emerald-500 text-sm font-bold font-['Roboto'] ">
-                                    rgb(0, 255, 102), </span><span
-                                    class="text-cyan-400 text-sm font-bold font-['Roboto'] ">rgb(2, 255,
-                                    238)</span><span class="text-black text-sm font-bold font-['Roboto'] ">
-                                </span><span class="text-blue-950 text-sm font-bold font-['Roboto'] ">85.71%);</span><span
-                                    class="text-black text-sm font-bold font-['Roboto'] "> <br /></span><span
-                                    class="text-yellow-500 text-sm font-bold font-['Roboto'] ">}</span></div>
-                        </div>
-                    </div>
-
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0  "
+                        class="relative">
+                        <image href="../assets/svg/Bloco-glass.svg" width="100%" height="100%" />
+                    </svg>
                 </div>
             </div>
 
@@ -126,12 +44,7 @@
 
 </script>
 <style scoped>
-.mac-box {
-    background: radial-gradient(135.9% 70.91% at 89.64% 35.57%, rgba(0, 209, 255, 0.20) 0%, rgba(255, 0, 229, 0.20) 84%), linear-gradient(128deg, rgba(123, 239, 204, 0.00) 16.18%, rgba(123, 169, 239, 0.59) 58.38%);
-    border-radius: 30.563px;
-    border: 1px solid #000;
-    overflow: hidden;
-}
+
 
 .box-header {
     width: 100%;

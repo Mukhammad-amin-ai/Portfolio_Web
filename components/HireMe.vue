@@ -11,8 +11,48 @@
                         </svg>
                     </div>
                 </div>
-
-
+                <div class="w-[90%] h-[80%] ml-[5%] mt-[10px] ">
+                    <form class="w-[100%] h-[100%]">
+                        <div class="mb-4">
+                            <label class="block text-[#fff] text-sm font-bold mb-2" for="name">
+                                Name
+                            </label>
+                            <input
+                                class="shadow appearance-none border rounded w-full py-2 px-3 leading-tight focus:outline-none focus:shadow-outline"
+                                id="name" type="text" placeholder="Enter your name" />
+                        </div>
+                        <div class="mb-4">
+                            <label class="block text-[#fff] vtext-sm font-bold mb-2" for="lastname">
+                                Last Name
+                            </label>
+                            <input
+                                class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                id="lastname" type="text" placeholder="Enter your last name" />
+                        </div>
+                        <div class="mb-4">
+                            <label class="block text-[#fff] text-sm font-bold mb-2" for="telephone">
+                                Telephone Number
+                            </label>
+                            <input
+                                class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                id="telephone" type="text" placeholder="Enter your telephone number" />
+                        </div>
+                        <div class="mb-4">
+                            <label class="block text-[#fff] text-sm font-bold mb-2" for="textarea">
+                                Comments
+                            </label>
+                            <textarea
+                                class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                id="textarea" placeholder="Enter your comments">
+                            </textarea>
+                        </div>
+                        <button class="w-[161px] h-[49.89px] rounded-[10px] bg-emerald-500 bg-opacity-40">
+                            <span class="text-center text-white text-[21.35px] font-medium font-['Roboto'] leading-snug">
+                                Submit
+                            </span>
+                        </button>
+                    </form>
+                </div>
             </div>
         </div>
     </div>

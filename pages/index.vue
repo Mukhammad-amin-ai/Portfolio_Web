@@ -3,10 +3,15 @@
     <div class="conatainer">
       <header class="home w-[100%] h-[100vh] bg-[#FCF7F7]">
         <Navbar />
-        <Header/>
+        <Header />
       </header>
-      <Projects/>
-      <Portfolio/>
+      <Projects />
+      <Portfolio />
+      <Aboutme />
+      <HireMe />
+      <footer class="w-[100%] h-[400px]">
+        <Footer />
+      </footer>
     </div>
   </div>
 </template>
@@ -21,7 +26,4 @@
   max-width: 100%;
   height: auto;
 }
-
-
-
 </style>

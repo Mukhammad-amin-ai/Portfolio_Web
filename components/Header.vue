@@ -33,7 +33,7 @@
                 </div>
                 <div class="mac-box w-[650px] h-[100%] ">
                     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0  " class="relative">
-                        <image href="../assets/svg/Bloco-glass.svg" width="100%" height="100%" />
+                        <image href="../assets/svg/bloco-glass.svg" width="100%" height="100%" />
                     </svg>
                 </div>
             </div>

@@ -17,7 +17,6 @@
                     class="w-[114.84px] h-[auto] text-center text-black text-2xl font-medium font-['Roboto'] leading-normal cursor-pointer hover">
                     Contacts</div>
                 <NuxtLink to="#hearMe">
-
                     <button class="w-24 h-10 relative rounded-[10px] shadow border border-black">
                         <div
                             class="cursor-pointer w-[93.79px] h-[auto] border-black flex items-center  justify-center text-black text-2xl font-medium font-['Roboto'] leading-normal">

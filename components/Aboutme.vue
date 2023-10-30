@@ -18,7 +18,7 @@
             </div>
 
             <div class=" w-[50%] h-[100%] flex items-center justify-center">
-                <img class="w-[70%] h-[60%]" src="../assets/svg/foto-ale.png" alt="#">
+                <img class="w-[70%] h-[60%]" src="../assets/images/foto-ale.png" alt="#">
             </div>
         </div>
     </div>
